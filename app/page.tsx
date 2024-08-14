@@ -17,7 +17,7 @@ export default function Home() {
           Creating The Next Generation Of Internet Entrepreneurs
         </p>
         <button className="bg-black text-white border rounded-3xl h-11 w-[24rem] mt-3">
-          Launching Beta Auguest 18th, 12PM Est.
+          Launching Beta August 18th, 12PM Est.
         </button>
       </div>
     </div>
