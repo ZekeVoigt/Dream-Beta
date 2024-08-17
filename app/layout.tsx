@@ -16,6 +16,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <script
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1714729228561426"
+        crossOrigin="anonymous"
+      ></script>
       <body className={inter.className}>{children}</body>
     </html>
   );
